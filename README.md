@@ -1,0 +1,2 @@
+# WMethod
+WMethod testign algorithm
